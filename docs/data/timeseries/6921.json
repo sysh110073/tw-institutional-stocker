@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2025-12-23",
+    "code": "6921",
+    "name": "嘉雨思-創",
+    "market": "TWSE",
+    "close": 63.0,
+    "foreign_net": 0.0,
+    "trust_net": 0.0,
+    "dealer_net": 0.0,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0
+  },
+  {
+    "date": "2025-12-24",
+    "code": "6921",
+    "name": "嘉雨思-創",
+    "market": "TWSE",
+    "close": 92.0,
+    "foreign_net": 6000.0,
+    "trust_net": 0.0,
+    "dealer_net": 6000.0,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0
+  },
+  {
+    "date": "2025-12-26",
+    "code": "6921",
+    "name": "嘉雨思-創",
+    "market": "TWSE",
+    "close": 81.0,
+    "foreign_net": 4000.0,
+    "trust_net": 0.0,
+    "dealer_net": 4000.0,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0
+  },
+  {
+    "date": "2025-12-29",
+    "code": "6921",
+    "name": "嘉雨思-創",
+    "market": "TWSE",
+    "close": 75.6,
+    "foreign_net": 1000.0,
+    "trust_net": 0.0,
+    "dealer_net": 1000.0,
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0
+  }
+]

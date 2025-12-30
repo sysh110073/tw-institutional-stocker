@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <title>TW Stock Alpha | 全方位戰情室</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* 補強一些樣式以支援新功能 */
+    .badge-buy { background-color: #ffebee; color: #c62828; border: 1px solid #ffcdd2; padding: 2px 6px; border-radius: 4px; font-size: 0.85em; margin: 2px; display: inline-block; }
+    .badge-sell { background-color: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; padding: 2px 6px; border-radius: 4px; font-size: 0.85em; margin: 2px; display: inline-block; }
+    .text-red { color: #ff6b6b; font-weight: bold; }
+    .text-green { color: #4ecdc4; font-weight: bold; }
+    .fw-bold { font-weight: bold; }
+    
+    /* 搜尋結果樣式 */
+    .search-box { display: flex; gap: 10px; margin-bottom: 15px; }
+    .search-box input { flex: 1; padding: 8px; border: 1px solid #333; background: #1a1a2e; color: white; border-radius: 4px; }
+    .search-box button { padding: 8px 15px; background: #e94560; color: white; border: none; border-radius: 4px; cursor: pointer; }
+    
+    /* 贏家卡片容器 */
+    #hof-actions-container { display: flex; flex-wrap: wrap; gap: 15px; }
+    .broker-action-card { background: #16213e; border: 1px solid #2a2a42; border-radius: 8px; padding: 15px; width: 100%; }
+    @media (min-width: 768px) { .broker-action-card { width: calc(50% - 15px); } }
+  </style>
+</head>
+
+<body>
+  <header class="header">
+    <div class="header-content">
+      <h1>📊 TW Stock Alpha</h1>
+      <p class="header-subtitle">三大法人趨勢 x 券商分點追蹤</p>
+    </div>
+    <nav class="main-nav">
+      <button class="nav-btn active" data-section="institutional">🏛️ 三大法人</button>
+      <button class="nav-btn" data-section="broker">🕵️ 券商分點</button>
+    </nav>
+  </header>
+
+  <section id="institutional" class="section active">
+    <div class="card">
+      <h2>🏛️ 個股持股比例追蹤</h2>
+      <div class="controls">
+        <div class="control-block">
+          <label for="stockInput">股票代碼：</label>
+          <input id="stockInput" type="text" placeholder="2330" value="2330">
+          <button id="loadBtn">載入</button>
+          <span id="statusText" class="subtitle"></span>
+        </div>
+        <div class="control-block">
+          <label><input type="checkbox" id="logScaleCheckbox"> Log scale</label>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col chart-col">
+        <div class="card">
+          <h3 id="chartTitle">2330 持股趨勢</h3>
+          <div style="height: 350px;">
+            <canvas id="ratioChart"></canvas>
+          </div>
+        </div>
+      </div>
+
+      <div class="col table-col">
+        <div class="card">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+            <h3 style="margin:0;">📈 法人籌碼排行</h3>
+            <div style="font-size:0.9rem;">
+              <select id="sortFilter" style="background:#1a1a2e; color:#fff; border:1px solid #2a2a42; padding:6px 10px; border-radius:4px; font-size:0.9rem;">
+                <optgroup label="投信 Trust">
+                  <option value="trust_buy" selected>投信買超排行</option>
+                  <option value="trust_sell">投信賣超排行</option>
+                </optgroup>
+                <optgroup label="外資 Foreign">
+                  <option value="foreign_buy">外資買超排行</option>
+                  <option value="foreign_sell">外資賣超排行</option>
+                </optgroup>
+                <optgroup label="自營商 Dealer">
+                  <option value="dealer_buy">自營買超排行</option>
+                  <option value="dealer_sell">自營賣超排行</option>
+                </optgroup>
+              </select>
+            </div>
+          </div>
+
+          <div class="table-container" style="height: 600px;">
+            <table id="rankTable">
+              <thead>
+                <tr>
+                  <th>股票</th>
+                  <th style="font-size:0.9rem">外資</th>
+                  <th style="width:70px">趨勢</th>
+                  <th style="font-size:0.9rem">投信</th>
+                  <th style="width:70px">趨勢</th>
+                  <th style="font-size:0.9rem">自營</th>
+                  <th style="width:70px">趨勢</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td colspan="7" style="text-align:center;">載入中...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="broker" class="section">
+    
+    <div class="card" style="margin-bottom: 20px;">
+      <h2>🏆 贏家今日買什麼 (Winner Actions)</h2>
+      <p class="subtitle">跟隨聰明錢：追蹤「名人堂分點」今日的進出明細</p>
+      <div id="hof-actions-container">
+        <p style="padding: 20px; text-align: center; color: #888;">載入中...</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <div class="card" style="height: 100%;">
+          <h3>🥇 券商分點名人堂</h3>
+          <p class="subtitle">篩選標準：獲利>100萬 且 勝率>50%</p>
+          <div class="table-container" style="height: 500px; overflow-y: auto;">
+            <table id="hof-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>分點名稱</th>
+                  <th>勝率</th>
+                  <th>累計獲利</th>
+                  <th>交易數</th>
+                </tr>
+              </thead>
+              <tbody id="hof-tbody">
+                <tr><td colspan="5" style="text-align: center;">載入中...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" style="height: 100%;">
+          <h3>🔍 全市場分點搜尋</h3>
+          <p class="subtitle">查詢任意分點今日交易</p>
+          
+          <div class="search-box">
+            <input type="text" id="broker-search-input" list="broker-list-suggestions" placeholder="輸入券商名稱 (如: 凱基-台北)...">
+            <datalist id="broker-list-suggestions">
+              </datalist>
+            <button onclick="searchBroker()">搜尋</button>
+          </div>
+          
+          <div id="search-result-container">
+            <h4 id="search-result-title" style="margin-top:0; color: #e94560;"></h4>
+            <div class="table-container" style="height: 400px; overflow-y: auto;">
+              <table id="search-result-table" style="display:none; width: 100%;">
+                <thead>
+                  <tr>
+                    <th>股票代號</th>
+                    <th>買賣別</th>
+                    <th>張數</th>
+                  </tr>
+                </thead>
+                <tbody id="search-result-tbody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>資料每日自動更新 | TW Stock Alpha</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+{
+  "updated": "2025-12-30T11:51:49.201328",
+  "brokers": {
+    "元大-仁愛": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -174,
+        "cumulative": -174
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -174,
+        "cumulative": -348
+      }
+    ],
+    "元大-佳里": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -36,
+        "cumulative": -36
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -36,
+        "cumulative": -72
+      }
+    ],
+    "元大-信義": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 421,
+        "cumulative": 421
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 421,
+        "cumulative": 842
+      }
+    ],
+    "元大-內湖": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -702,
+        "cumulative": -702
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -702,
+        "cumulative": -1404
+      }
+    ],
+    "元大-內湖民權": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -49,
+        "cumulative": -49
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -49,
+        "cumulative": -98
+      }
+    ],
+    "元大-六合": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 62,
+        "cumulative": 62
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 62,
+        "cumulative": 124
+      }
+    ],
+    "元大-古亭": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -273,
+        "cumulative": -273
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -273,
+        "cumulative": -546
+      }
+    ],
+    "元大-向上": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 37,
+        "cumulative": 37
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 37,
+        "cumulative": 74
+      }
+    ],
+    "元大-嘉義": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 28,
+        "cumulative": 28
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 28,
+        "cumulative": 56
+      }
+    ],
+    "元大-土城": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -151,
+        "cumulative": -151
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -151,
+        "cumulative": -302
+      }
+    ],
+    "元大-士林": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -129,
+        "cumulative": -129
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -129,
+        "cumulative": -258
+      }
+    ],
+    "元大-大同": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 431,
+        "cumulative": 431
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 431,
+        "cumulative": 862
+      }
+    ],
+    "元大-大天母": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -199,
+        "cumulative": -199
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -199,
+        "cumulative": -398
+      }
+    ],
+    "元大-大安": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 32,
+        "cumulative": 32
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 32,
+        "cumulative": 64
+      }
+    ],
+    "元大-大益": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -57,
+        "cumulative": -57
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -57,
+        "cumulative": -114
+      }
+    ],
+    "元大-大統": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -128,
+        "cumulative": -128
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -128,
+        "cumulative": -256
+      }
+    ],
+    "元大-忠孝鼎富": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 50,
+        "cumulative": 50
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 50,
+        "cumulative": 100
+      }
+    ],
+    "元大-敦南": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -108,
+        "cumulative": -108
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -108,
+        "cumulative": -216
+      }
+    ],
+    "元大-文心興安": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 144,
+        "cumulative": 144
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 144,
+        "cumulative": 288
+      }
+    ],
+    "元大-新營": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 24,
+        "cumulative": 24
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 24,
+        "cumulative": 48
+      }
+    ],
+    "元大-新盛": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -188,
+        "cumulative": -188
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -188,
+        "cumulative": -376
+      }
+    ],
+    "元大-新竹經國": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 10,
+        "cumulative": 10
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 10,
+        "cumulative": 20
+      }
+    ],
+    "元大-木柵": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -186,
+        "cumulative": -186
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -186,
+        "cumulative": -372
+      }
+    ],
+    "元大-松江": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 10,
+        "cumulative": 10
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 10,
+        "cumulative": 20
+      }
+    ],
+    "元大-板橋": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -100,
+        "cumulative": -100
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -100,
+        "cumulative": -200
+      }
+    ],
+    "元大-板橋三民": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 31,
+        "cumulative": 31
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 31,
+        "cumulative": 62
+      }
+    ],
+    "元大-民生三民": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -54,
+        "cumulative": -54
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -54,
+        "cumulative": -108
+      }
+    ],
+    "元大-永春": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 88,
+        "cumulative": 88
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 88,
+        "cumulative": 176
+      }
+    ],
+    "元大-竹北": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 39,
+        "cumulative": 39
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 39,
+        "cumulative": 78
+      }
+    ],
+    "元大-羅東": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 0,
+        "cumulative": 0
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 0,
+        "cumulative": 0
+      }
+    ],
+    "元大-萬華": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -113,
+        "cumulative": -113
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -113,
+        "cumulative": -226
+      }
+    ],
+    "元大-雙和": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -107,
+        "cumulative": -107
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -107,
+        "cumulative": -214
+      }
+    ],
+    "元大-頭份": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -147,
+        "cumulative": -147
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -147,
+        "cumulative": -294
+      }
+    ],
+    "元大-館前": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -30,
+        "cumulative": -30
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -30,
+        "cumulative": -60
+      }
+    ],
+    "元大-高雄": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -47,
+        "cumulative": -47
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -47,
+        "cumulative": -94
+      }
+    ],
+    "元大-鳳中": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -103,
+        "cumulative": -103
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -103,
+        "cumulative": -206
+      }
+    ],
+    "元大證券": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -1729,
+        "cumulative": -1729
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -1729,
+        "cumulative": -3458
+      }
+    ],
+    "凱基": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 4572,
+        "cumulative": 4572
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 4572,
+        "cumulative": 9144
+      }
+    ],
+    "凱基-中壢": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -184,
+        "cumulative": -184
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -184,
+        "cumulative": -368
+      }
+    ],
+    "凱基-中山": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 0,
+        "cumulative": 0
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 0,
+        "cumulative": 0
+      }
+    ],
+    "凱基-信義": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -114,
+        "cumulative": -114
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -114,
+        "cumulative": -228
+      }
+    ],
+    "凱基-八德": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 115,
+        "cumulative": 115
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 115,
+        "cumulative": 230
+      }
+    ],
+    "凱基-台北": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -3214,
+        "cumulative": -3214
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -3214,
+        "cumulative": -6428
+      }
+    ],
+    "凱基-員林": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -203,
+        "cumulative": -203
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -203,
+        "cumulative": -406
+      }
+    ],
+    "凱基-士林": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -42,
+        "cumulative": -42
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -42,
+        "cumulative": -84
+      }
+    ],
+    "凱基-市府": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -85,
+        "cumulative": -85
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -85,
+        "cumulative": -170
+      }
+    ],
+    "凱基-松山": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -28,
+        "cumulative": -28
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -28,
+        "cumulative": -56
+      }
+    ],
+    "凱基-桃園": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -791,
+        "cumulative": -791
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -791,
+        "cumulative": -1582
+      }
+    ],
+    "凱基-站前": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 1708,
+        "cumulative": 1708
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 1708,
+        "cumulative": 3416
+      }
+    ],
+    "凱基-竹科": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 89,
+        "cumulative": 89
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 89,
+        "cumulative": 178
+      }
+    ],
+    "凱基-興隆": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -199,
+        "cumulative": -199
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -199,
+        "cumulative": -398
+      }
+    ],
+    "凱基-虎尾": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -26,
+        "cumulative": -26
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -26,
+        "cumulative": -52
+      }
+    ],
+    "凱基-雙和": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -231,
+        "cumulative": -231
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -231,
+        "cumulative": -462
+      }
+    ],
+    "凱基-高美館": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 111,
+        "cumulative": 111
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 111,
+        "cumulative": 222
+      }
+    ],
+    "凱基-鳳山": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -50,
+        "cumulative": -50
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -50,
+        "cumulative": -100
+      }
+    ],
+    "台灣摩根士丹利": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 4143,
+        "cumulative": 4143
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 4143,
+        "cumulative": 8286
+      }
+    ],
+    "大和國泰": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 610,
+        "cumulative": 610
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 610,
+        "cumulative": 1220
+      }
+    ],
+    "富邦-七賢": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -139,
+        "cumulative": -139
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -139,
+        "cumulative": -278
+      }
+    ],
+    "富邦-仁愛": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -320,
+        "cumulative": -320
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -320,
+        "cumulative": -640
+      }
+    ],
+    "富邦-公益": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 36,
+        "cumulative": 36
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 36,
+        "cumulative": 72
+      }
+    ],
+    "富邦-北港": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -93,
+        "cumulative": -93
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -93,
+        "cumulative": -186
+      }
+    ],
+    "富邦-南京": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -108,
+        "cumulative": -108
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -108,
+        "cumulative": -216
+      }
+    ],
+    "富邦-南員林": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -82,
+        "cumulative": -82
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -82,
+        "cumulative": -164
+      }
+    ],
+    "富邦-台北": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -336,
+        "cumulative": -336
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -336,
+        "cumulative": -672
+      }
+    ],
+    "富邦-左營": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -83,
+        "cumulative": -83
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -83,
+        "cumulative": -166
+      }
+    ],
+    "富邦-建國": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -20,
+        "cumulative": -20
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -20,
+        "cumulative": -40
+      }
+    ],
+    "富邦-新板": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 166,
+        "cumulative": 166
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 166,
+        "cumulative": 332
+      }
+    ],
+    "富邦-新竹": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -49,
+        "cumulative": -49
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -49,
+        "cumulative": -98
+      }
+    ],
+    "富邦-板橋": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -111,
+        "cumulative": -111
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -111,
+        "cumulative": -222
+      }
+    ],
+    "富邦-永和": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 102,
+        "cumulative": 102
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 102,
+        "cumulative": 204
+      }
+    ],
+    "富邦-竹北": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 113,
+        "cumulative": 113
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 113,
+        "cumulative": 226
+      }
+    ],
+    "富邦-羅東": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -39,
+        "cumulative": -39
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -39,
+        "cumulative": -78
+      }
+    ],
+    "富邦-虎尾": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -681,
+        "cumulative": -681
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -681,
+        "cumulative": -1362
+      }
+    ],
+    "富邦-陽明": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -571,
+        "cumulative": -571
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -571,
+        "cumulative": -1142
+      }
+    ],
+    "富邦-青埔": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -11,
+        "cumulative": -11
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -11,
+        "cumulative": -22
+      }
+    ],
+    "富邦-高雄": [
+      {
+        "date": "2025-12-29",
+        "net_vol": -109,
+        "cumulative": -109
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": -109,
+        "cumulative": -218
+      }
+    ],
+    "富邦證券": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 2024,
+        "cumulative": 2024
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 2024,
+        "cumulative": 4048
+      }
+    ],
+    "摩根大通": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 590,
+        "cumulative": 590
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 590,
+        "cumulative": 1180
+      }
+    ],
+    "新加坡商瑞銀": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 11032,
+        "cumulative": 11032
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 11032,
+        "cumulative": 22064
+      }
+    ],
+    "港商野村": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 2500,
+        "cumulative": 2500
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 2500,
+        "cumulative": 5000
+      }
+    ],
+    "港商麥格理": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 3708,
+        "cumulative": 3708
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 3708,
+        "cumulative": 7416
+      }
+    ],
+    "美商高盛": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 11936,
+        "cumulative": 11936
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 11936,
+        "cumulative": 23872
+      }
+    ],
+    "美林": [
+      {
+        "date": "2025-12-29",
+        "net_vol": 15281,
+        "cumulative": 15281
+      },
+      {
+        "date": "2025-12-30",
+        "net_vol": 15281,
+        "cumulative": 30562
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+:root {
+  --primary: #1a1a2e;
+  --primary-light: #16213e;
+  --accent: #e94560;
+  --accent-light: #ff6b6b;
+  --success: #00d9a5;
+  --warning: #ffc107;
+  --bg: #0f0f23;
+  --bg-card: #1a1a2e;
+  --text: #eaeaea;
+  --text-muted: #8b8b9e;
+  --border: #2a2a42;
+  --buy: #ff4757;
+  --sell: #2ed573;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  margin: 0; padding: 0;
+  background: linear-gradient(135deg, var(--bg) 0%, #1a1a3a 100%);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+/* Header & Search */
+.header {
+  background: rgba(26, 26, 46, 0.9);
+  backdrop-filter: blur(10px);
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+  position: sticky; top: 0; z-index: 100;
+  display: flex; justify-content: space-between; align-items: center;
+}
+
+.header h1 {
+  margin: 0; font-size: 1.8rem;
+  background: linear-gradient(90deg, #fff, var(--accent-light));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+
+.controls { display: flex; gap: 10px; }
+
+#stockInput {
+  padding: 0.5rem 1rem; border-radius: 8px; border: 1px solid var(--border);
+  background: var(--bg); color: var(--text); font-size: 1rem; width: 150px;
+}
+#stockInput:focus { outline: none; border-color: var(--accent); }
+
+#searchBtn, #resetBtn {
+  padding: 0.5rem 1.2rem; border-radius: 8px; border: none; cursor: pointer;
+  font-weight: 500; transition: 0.2s; color: white;
+}
+#searchBtn { background: var(--accent); }
+#searchBtn:hover { background: var(--accent-light); }
+#resetBtn { background: var(--border); }
+#resetBtn:hover { background: var(--bg-card); }
+
+/* Main Layout */
+.container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+
+/* Chart Section */
+.card {
+  background: var(--bg-card); border-radius: 16px; padding: 20px;
+  border: 1px solid var(--border); box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+  margin-bottom: 20px;
+}
+.chart-container { position: relative; height: 350px; width: 100%; }
+
+/* Tables Grid */
+.row { display: flex; gap: 20px; flex-wrap: wrap; }
+.col { flex: 1; min-width: 400px; }
+
+.table-container { max-height: 500px; overflow-y: auto; }
+
+table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+th {
+  text-align: right; padding: 10px; background: var(--primary);
+  color: var(--text-muted); position: sticky; top: 0;
+}
+td {
+  padding: 10px; border-bottom: 1px solid var(--border);
+  text-align: right; vertical-align: middle;
+}
+/* 左對齊文字欄位 */
+th:nth-child(1), td:nth-child(1), 
+th:nth-child(2), td:nth-child(2) { text-align: left; }
+
+tbody tr:hover { background: rgba(255,255,255,0.05); }
+
+/* Utilities */
+.text-up { color: var(--buy); font-weight: bold; }
+.text-down { color: var(--sell); font-weight: bold; }
+.badge {
+  padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;
+  background: rgba(233, 69, 96, 0.15); color: var(--accent-light);
+}
+.tag-gold {
+  background: #ffd700; color: #000; padding: 2px 6px; 
+  border-radius: 4px; font-weight: bold; font-size: 0.7rem; margin-left: 5px;
+}
+.update-time { font-size: 0.8rem; color: var(--text-muted); margin-top: 5px; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }

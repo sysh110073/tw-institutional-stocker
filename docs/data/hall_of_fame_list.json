@@ -1,0 +1,2003 @@
+{
+  "updated": "2025-12-30T11:51:49.317682",
+  "data": [
+    {
+      "broker_name": "(牛牛牛)亞-鑫豐",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "(牛牛牛)亞證券",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "中國信託",
+      "total_trades": 20,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 10
+    },
+    {
+      "broker_name": "中國信託-文心",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "中國信託-高雄",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "亞東",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "亞東-高雄",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-仁愛",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "元大-佳里",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-信義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-內湖",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-內湖民權",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-六合",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "元大-古亭",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "元大-向上",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-嘉義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-土城",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-士林",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-大同",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "元大-大天母",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-大安",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-大益",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "元大-大統",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-忠孝鼎富",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-敦南",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-文心興安",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-新營",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-新盛",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-新竹經國",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-木柵",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-松江",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-板橋",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-板橋三民",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-民生三民",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-永春",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-竹北",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-羅東",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "元大-萬華",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-雙和",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "元大-頭份",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-館前",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-高雄",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大-鳳中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元大證券",
+      "total_trades": 40,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 20
+    },
+    {
+      "broker_name": "元富",
+      "total_trades": 16,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 8
+    },
+    {
+      "broker_name": "元富-信義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元富-嘉義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元富-城中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元富-松德",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "元富-永和",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-南門",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-台中港",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-城中",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "兆豐-埔墘",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "兆豐-大同",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-小港",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-岡山",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-忠孝",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-景美",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "兆豐-桃鶯",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐-高雄",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "兆豐-鹿港",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "兆豐證券",
+      "total_trades": 10,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 5
+    },
+    {
+      "broker_name": "凱基",
+      "total_trades": 24,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 12
+    },
+    {
+      "broker_name": "凱基-中壢",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-中山",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "凱基-信義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-八德",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-台北",
+      "total_trades": 32,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 16
+    },
+    {
+      "broker_name": "凱基-員林",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-士林",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-市府",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-松山",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-桃園",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "凱基-站前",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "凱基-竹科",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-興隆",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-虎尾",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-雙和",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-高美館",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "凱基-鳳山",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "台新-台中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "台新-台南",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "台新-左楠",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "台新-建北",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "台新證券",
+      "total_trades": 12,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 6
+    },
+    {
+      "broker_name": "台灣企銀-台中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "台灣企銀-嘉義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "台灣摩根士丹利",
+      "total_trades": 34,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 17
+    },
+    {
+      "broker_name": "合庫-台中",
+      "total_trades": 8,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 4
+    },
+    {
+      "broker_name": "合庫-桃園",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "合庫-鳳山",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "合庫證券",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "國泰-台中",
+      "total_trades": 8,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 4
+    },
+    {
+      "broker_name": "國泰-忠孝",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "國泰-敦南",
+      "total_trades": 26,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 13
+    },
+    {
+      "broker_name": "國泰-板橋",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "國泰-桃園",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "國泰-館前",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "國泰證券",
+      "total_trades": 24,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 12
+    },
+    {
+      "broker_name": "國票-中港",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "國票-北投",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "國票-南京",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "國票-敦北法人",
+      "total_trades": 20,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 10
+    },
+    {
+      "broker_name": "國票-長城",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "國票證券",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "土銀-玉里",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "大和國泰",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "大昌-安康",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "大昌-新店",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "宏遠-台南",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "宏遠-新化",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "宏遠-館前",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "宏遠證券",
+      "total_trades": 8,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 4
+    },
+    {
+      "broker_name": "富邦-七賢",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-仁愛",
+      "total_trades": 8,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 4
+    },
+    {
+      "broker_name": "富邦-公益",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-北港",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "富邦-南京",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-南員林",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-台北",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "富邦-左營",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-建國",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-新板",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-新竹",
+      "total_trades": 8,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 4
+    },
+    {
+      "broker_name": "富邦-板橋",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "富邦-永和",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "富邦-竹北",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-羅東",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "富邦-虎尾",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-陽明",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "富邦-青埔",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦-高雄",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "富邦證券",
+      "total_trades": 22,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 11
+    },
+    {
+      "broker_name": "康和",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "康和-台中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "康和-永和",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "彰銀",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "摩根大通",
+      "total_trades": 38,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 19
+    },
+    {
+      "broker_name": "新光",
+      "total_trades": 16,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 8
+    },
+    {
+      "broker_name": "新光-台中",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "新光-台南",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "新加坡商瑞銀",
+      "total_trades": 36,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 18
+    },
+    {
+      "broker_name": "日茂",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永全-八德",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-中和",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-中正",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-信義",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "永豐金-匯立",
+      "total_trades": 10,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 5
+    },
+    {
+      "broker_name": "永豐金-台中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-台南",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-市政",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-復興",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-敦南",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "永豐金-新竹",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "永豐金-新莊",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-板新",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-永康",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-潮州",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-竹科",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-苓雅",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "永豐金-萬盛",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "永豐金證券",
+      "total_trades": 28,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 14
+    },
+    {
+      "broker_name": "法銀巴黎",
+      "total_trades": 22,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 11
+    },
+    {
+      "broker_name": "港商野村",
+      "total_trades": 26,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 13
+    },
+    {
+      "broker_name": "港商麥格理",
+      "total_trades": 18,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 9
+    },
+    {
+      "broker_name": "玉山-台中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "玉山-台南",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "玉山-嘉義",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "玉山-新竹",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "玉山-桃園",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "玉山-高雄",
+      "total_trades": 8,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 4
+    },
+    {
+      "broker_name": "玉山證券",
+      "total_trades": 8,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 4
+    },
+    {
+      "broker_name": "福勝",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "第一金-中山",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "第一金-彰化",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "第一金-忠孝",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "第一金-自由",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "統一",
+      "total_trades": 24,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 12
+    },
+    {
+      "broker_name": "統一-三重",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "統一-仁愛",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "統一-內湖",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "統一-城中",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "統一-士林",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "美商高盛",
+      "total_trades": 40,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 20
+    },
+    {
+      "broker_name": "美好-富順",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "美林",
+      "total_trades": 36,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 18
+    },
+    {
+      "broker_name": "群益金鼎",
+      "total_trades": 18,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 9
+    },
+    {
+      "broker_name": "群益金鼎-中山",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "群益金鼎-中港",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "群益金鼎-內湖",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "群益金鼎-古亭",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "群益金鼎-嘉義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "群益金鼎-土城",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "群益金鼎-崇德",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "群益金鼎-敦南",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "群益金鼎-新竹",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "群益金鼎-松山",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "群益金鼎-永和",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "聯邦-三重",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "聯邦-大業",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "聯邦商銀",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "臺銀",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "臺銀-新竹",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "臺銀-民權",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "臺銀-金山",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "臺銀-高雄",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "花旗環球",
+      "total_trades": 34,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 17
+    },
+    {
+      "broker_name": "華南永昌",
+      "total_trades": 10,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 5
+    },
+    {
+      "broker_name": "華南永昌-三重",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "華南永昌-中正",
+      "total_trades": 6,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 3
+    },
+    {
+      "broker_name": "華南永昌-內壢",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "華南永昌-南京",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "華南永昌-嘉義",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "華南永昌-彰化",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "華南永昌-虎尾",
+      "total_trades": 4,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 2
+    },
+    {
+      "broker_name": "華南永昌-高雄",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "陽信",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "陽信-石牌",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "香港上海匯豐",
+      "total_trades": 12,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 6
+    },
+    {
+      "broker_name": "高橋",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    },
+    {
+      "broker_name": "高橋-內壢",
+      "total_trades": 2,
+      "win_count": 0,
+      "win_rate": 0.0,
+      "total_profit": 0.0,
+      "avg_profit": 0.0,
+      "stocks_traded": 1
+    }
+  ]
+}

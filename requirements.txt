@@ -1,0 +1,7 @@
+requests
+pandas
+python-dateutil
+playwright
+beautifulsoup4
+nest_asyncio
+numpy
