@@ -1,0 +1,32 @@
+# --- Python 編譯檔與快取 (不需要上傳) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- 虛擬環境 (絕對不要上傳) ---
+venv/
+env/
+.env
+
+# --- IDE 設定檔 (每個人電腦設定不同，不需要上傳) ---
+.vscode/
+.idea/
+*.swp
+
+# --- 作業系統產生的垃圾檔 ---
+.DS_Store
+Thumbs.db
+
+# --- [關鍵] 爬蟲數據與資料夾 ---
+# 忽略 data 資料夾下的所有東西 (包含 CSV, 暫存檔)
+data/*
+
+# 忽略 docs/data 資料夾 (如果您不希望 JSON 被上傳)
+# 注意：如果您的網頁是架在 GitHub Pages，docs/data 必須上傳網頁才讀得到資料！
+# 如果您是本地執行網頁，則可以把下面這行解除註解：
+docs/data/*
+
+# --- 例外規則 (如果您想保留資料夾結構但不要檔案) ---
+!data/.gitkeep
+!docs/data/.gitkeep
